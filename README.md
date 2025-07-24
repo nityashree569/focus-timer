@@ -13,6 +13,6 @@ A simple command-line ffocus timer written in Java.
    ```bash
    javac focus.java
    java focus
-Now you will see 
+Now you will see your required result 
 
 
