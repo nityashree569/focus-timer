@@ -1,6 +1,6 @@
 # ⏱️ Java Focus Timer 
 
-A simple command-line ffocus timer written in Java.
+A simple command-line focus timer written in Java.Generally recommended in order to stay focus and concentrated.
 
 ## 💡 Features
 - 25-minute work timer
